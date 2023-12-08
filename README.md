@@ -19,19 +19,16 @@ Privacy and Medical Data Standardization Competition: Decoding Clinical Cases, L
   - [Task 2 Inference from Task 1](#task-2-inference-from-task-1)
 
 ## Prerequisites
-    ``
     torch == 2.1.1
     transformers == 4.35.2
     datasets == 2.15.0
     torch-crf == 0.7.2 
-    ``
 
 ## Installation
-    ``
     $ git clone [repository-url]
     $ cd [project-directory]
     $ pip install -r requirements.txt
-    ``
+    
 
 ## Train and evaluate Task 1 Model
   Train and Evaluate source code for Task 1  :
