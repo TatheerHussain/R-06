@@ -4,7 +4,7 @@
 AI CUP 2023 Fall Competition
 
 ## Description
-Privacy and Medical Data Standardization Competition: Decoding Clinical Cases, Letting Data Tell the Story Competition
+Privacy and Medical Data Standardization Competition: Decoding Clinical Cases, Letting Data Tell the Story Competition.
 
 ## Table of Contents
 
