@@ -34,7 +34,15 @@ Privacy and Medical Data Standardization Competition: Decoding Clinical Cases, L
     ```
 
 ## Train and evaluate Task 1 Model
+  Train and Evaluate source code for Task 1  :
+  - [Task1_CRF_training_single.ipynb](https://github.com/danangwijaya750/AI-CUP-2023-Fall/blob/master/src/Task1_CRF_training_single.ipynb)
+  - [Task1_CRF_training_new.ipynb](https://github.com/danangwijaya750/AI-CUP-2023-Fall/blob/master/src/Task1_CRF_training_new.ipynb)
 
 ## Task 1 Inference
+  Inference for Task 1 model :
+  - [Task1_CRF_inference_single.ipynb](https://github.com/danangwijaya750/AI-CUP-2023-Fall/blob/master/src/Task1_CRF_inference_single.ipynb)
 
 ## Task 2 Inference from Task 1
+   Task 2 Solution code :
+  - [Task2.ipynb](https://github.com/danangwijaya750/AI-CUP-2023-Fall/blob/master/src/Task2.ipynb)
+  
