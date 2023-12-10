@@ -17,6 +17,7 @@ Privacy and Medical Data Standardization Competition: Decoding Clinical Cases, L
   - [Train and evaluate Task 1 Model](#train-and-evaluate-task-1-model)
   - [Task 1 Inference](#task-1-inference)
   - [Task 2 Inference from Task 1](#task-2-inference-from-task-1)
+  - [Others Code](#others-code)
 
 ## Prerequisites
     torch == 2.1.1
@@ -43,3 +44,7 @@ Privacy and Medical Data Standardization Competition: Decoding Clinical Cases, L
    Task 2 Solution code :
   - [Task2.ipynb](https://github.com/danangwijaya750/AI-CUP-2023-Fall/blob/master/src/Task2.ipynb)
   
+## Others Code 
+  - [Result anlysis for Task 1](https://github.com/danangwijaya750/AI-CUP-2023-Fall/blob/master/src/Result_analysis.ipynb)
+  - [Find Problem from predicted Task 1](https://github.com/danangwijaya750/AI-CUP-2023-Fall/blob/master/src/Find_problem.ipynb)
+  - [Final Voting from all predicted models](https://github.com/danangwijaya750/AI-CUP-2023-Fall/blob/master/src/Final_voting.ipynb)
