@@ -10,10 +10,10 @@ Privacy and Medical Data Standardization Competition: Decoding Clinical Cases, L
   - Team name: TEAM_3879(Codalab account: Xiuyu223)
   - Private leaderboard: 0.864657 / Rank 8
   - Members: 
-    - ![侯秀瑜(Sally)](https://github.com/Xiuyu223)  
-    - ![曾繁斌(Royce)](https://github.com/trueroyce) 
-    - ![柯函君(Chloe)](https://github.com/hanchunkk)
-    - ![Danang Wijaya](https://github.com/danangwijaya750/)
+    - [侯秀瑜(Sally)](https://github.com/Xiuyu223)  
+    - [曾繁斌(Royce)](https://github.com/trueroyce) 
+    - [柯函君(Chloe)](https://github.com/hanchunkk)
+    - [Danang Wijaya](https://github.com/danangwijaya750/)
 
 ## Table of Contents
 
