@@ -6,11 +6,21 @@ AI CUP 2023 Fall Competition
 ## Description
 Privacy and Medical Data Standardization Competition: Decoding Clinical Cases, Letting Data Tell the Story Competition.
 
+## Team Information
+  - Team name: TEAM_3879(Codalab account: Xiuyu223)
+  - Private leaderboard: 0.864657 / Rank 8
+  - Members: 
+    - ![侯秀瑜(Sally)](https://github.com/Xiuyu223)  
+    - ![曾繁斌(Royce)](https://github.com/trueroyce) 
+    - ![柯函君(Chloe)](https://github.com/hanchunkk)
+    - ![Danang Wijaya](https://github.com/danangwijaya750/)
+
 ## Table of Contents
 
 - [AI Cup Source Code Documentation](#ai-cup-source-code-documentation)
   - [Project Title](#project-title)
   - [Description](#description)
+  - [Team Information](#team-information)
   - [Table of Contents](#table-of-contents)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -26,8 +36,8 @@ Privacy and Medical Data Standardization Competition: Decoding Clinical Cases, L
     torch-crf == 0.7.2 
 
 ## Installation
-    $ git clone [repository-url]
-    $ cd [project-directory]
+    $ git clone https://github.com/danangwijaya750/AI-CUP-2023-Fall.git
+    $ cd AI-CUP-2023-Fall
     $ pip install -r requirements.txt
     
 
